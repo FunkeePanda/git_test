@@ -1,0 +1,1 @@
+This is Funkee's first git project!
